@@ -1,0 +1,55 @@
+<RCC>
+  <qresource prefix="close">
+    <file>cil-x.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>finance_ilustration.png</file>
+  </qresource>
+  <qresource prefix="more">
+    <file>more.png</file>
+  </qresource>
+  <qresource prefix="search">
+    <file>procurar.png</file>
+    <file>procurar(copiar).png</file>
+  </qresource>
+  <qresource prefix="money">
+    <file>dinheiro(copiar).png</file>
+    <file>seta-para-baixo.png</file>
+    <file>bolsa-de-dinheiro.png</file>
+    <file>dinheiro (1).png</file>
+  </qresource>
+  <qresource prefix="calendar">
+    <file>calendario.png</file>
+    <file>020-calendar.png</file>
+  </qresource>
+  <qresource prefix="pencil">
+    <file>lapis(copiar).png</file>
+    <file>022-pencil.png</file>
+    <file>lapis.png</file>
+  </qresource>
+  <qresource prefix="add">
+    <file>mais.png</file>
+    <file>mais (1).png</file>
+  </qresource>
+  <qresource prefix="home">
+    <file>casa.png</file>
+    <file>010-home.png</file>
+  </qresource>
+  <qresource prefix="settings">
+    <file>definicoes(copiar).png</file>
+    <file>019-settings.png</file>
+  </qresource>
+  <qresource prefix="user">
+    <file>do-utilizador_64.png</file>
+    <file>do-utilizador(copiar).png</file>
+    <file>do-utilizador.png</file>
+    <file>012-user.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>finance.png</file>
+    <file>finance2.png</file>
+  </qresource>
+</RCC>

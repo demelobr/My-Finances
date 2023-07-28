@@ -1,0 +1,25 @@
+ctrl + Enter -> New Task
+Alt + d -> Check Taks
+
+<Design Tasks>
+✔ On the login window, align the label "click here". @done (6/23/2023, 4:19:24 PM)
+✔ On the home tab, align the label "year" to the same spacing as months @done (6/23/2023, 4:19:40 PM)
+✔ Create the "Transactions tab" with all transactions made @done (6/23/2023, 10:45:55 PM)
+✔ Change the icons @done (6/23/2023, 10:45:58 PM)
+✔ Remove calendar tab @done (6/23/2023, 10:46:01 PM)
+☐ Set the user icon in user tab and edit tab
+☐ Change the border color of inputs
+☐ Manke and developer transactions tab
+☐ Make and developer settings tab
+    ☐ Dark/Light mode
+    ☐ Portuguese/English labguages
+    ☐ Change the default color of elements
+
+<Code Taks>
+✔ Transfer filters when I go from the home tab to expenses or revenues @done (6/14/2023, 9:33:17 PM)
+✔ Transfer year filter when I go from the home tab to expenses or revenues @done (6/23/2023, 11:55:18 AM)
+✔ Check if "month_number" function is needed @done (6/23/2023, 3:42:07 PM)
+☐ Improve the search algorithm to find results with substrings
+☐ Develop the code for button total in home tab, redirecting to transactions tab
+☐ Develop code for account editing
+☐ Develop "btn_edit_more" in edit tab.
